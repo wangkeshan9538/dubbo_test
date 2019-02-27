@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wks:API:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wks/API/unknown/API-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wks/API/unknown/API-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wks/API/unknown/API-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,16 +1,15 @@
 package serviceImpl;
 
 import bean.UserAddress;
-import com.alibaba.dubbo.config.annotation.Service;
-import org.springframework.stereotype.Component;
+import org.apache.dubbo.config.annotation.Service;
 import service.UserService;
 
 import java.util.Arrays;
 import java.util.List;
 
 
-@Service
-@Component
+
+@Service(version = "1.0.0")
 public class UserServiceImpl implements UserService {
     @Override
     public List<UserAddress> findUsers() {

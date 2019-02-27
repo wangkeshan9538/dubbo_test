@@ -4,8 +4,7 @@ server:
 
 
 
-spring:
-  dubbo:
+dubbo:
     application:
       name: dubbo_cli
     registry:
