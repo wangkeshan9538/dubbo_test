@@ -11,7 +11,6 @@ dubbo:
       name: dubbo_server
     registry:
       address: zookeeper://localhost:2181
-      client: zkclient
     protocol:
       name: dubbo
       port: 20882

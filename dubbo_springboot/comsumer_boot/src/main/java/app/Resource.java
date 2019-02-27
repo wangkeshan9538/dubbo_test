@@ -11,7 +11,7 @@ import java.util.List;
 @Service
 public class Resource {
 
-    @Reference
+    @Reference(version = "1.0.0")
     UserService service;
 
     public void findAll(){
